@@ -1,0 +1,10 @@
+{ 
+    "name" : "typescriptrefesher"
+    , "version" : "0.0.0"
+        , "description" : "Let's get refresh our typescript knowledge"
+    , "dependencies": {
+        "gulp" : "latest"
+        ,"gulp-typescript" : "latest"
+        ,"gulp-watch" : "latest"
+    }
+}

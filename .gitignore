@@ -1,3 +1,7 @@
+# Ignore the compiled javascript files
+built/*
+node_modules/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
